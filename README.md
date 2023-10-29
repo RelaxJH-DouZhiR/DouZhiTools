@@ -1,2 +1,2 @@
 # DouZhiTools
-My tool
+This way: https://gitee.com/lvlaxjh/DouZhiTools
